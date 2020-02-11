@@ -1,5 +1,7 @@
 EXTINF:-1, TNT FULL HD
 https://live.multicanais.com/mylive/tnthd/video.m3u8?md5=AntXBa0igEPTu-LBIen7og&expires=1581304011
+#EXTINF:-1,US: TNT HD
+http://xtiptv.xyz:25461/live/2422977288/4792904203/55743.ts
 #EXTINF:-1,|USA| ABC
 http://51.159.21.231:2052/usapro2@source/799965@26641/1821
 #EXTINF:-1,|USA| CBS HD
